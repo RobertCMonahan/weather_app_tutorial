@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="change_city">Change City</string>
+    <string name="change_units">Change Units</string>
+</resources>
